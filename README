@@ -1,4 +1,4 @@
-```text
+
 ███╗   ███╗██╗███╗   ██╗██╗███╗   ██╗ ██████╗ ██╗████████╗
 ████╗ ████║██║████╗  ██║██║████╗  ██║██╔════╝ ██║╚══██╔══╝
 ██╔████╔██║██║██╔██╗ ██║██║██╔██╗ ██║██║  ███╗██║   ██║   
@@ -6,12 +6,10 @@
 ██║ ╚═╝ ██║██║██║ ╚████║██║██║ ╚████║╚██████╔╝██║   ██║   
 ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝   ╚═╝   
 
-```
+a stupid git replacement
 
-## *a stupid git replacement*
-
-**miningit**
-*miningit* - the tiny git alternative
+miningit
+miningit - the tiny git alternative
 
 "miningit" can mean anything, depending on how broken your workflow is.
 
@@ -21,7 +19,7 @@
 * "minimal incremental tool" if you're feeling optimistic.
 * "not intended for internet teams" when somebody asks for cloud integration.
 
-**description**
+description
 This is a stupid version control utility.
 
 It does not try to understand your project.
@@ -34,15 +32,13 @@ It pushes and pulls when you tell it to.
 The entire design assumes that Git is already too complicated.
 Everything else is accidental complexity.
 
-**features**
-
+features
 * small
 * fast
 * scriptable
 * understandable without a management meeting
 
-**non-features**
-
+non-features
 * telemetry
 * accounts
 * synchronization (unless you want it)
